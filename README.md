@@ -10,13 +10,12 @@ Command-line application to manage a company's employee database.
 [![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)](https://www.npmjs.com/package/mysql2)
 
 
-![employee-tracker](./public/assets/images/note-taker.jpg)
 
-Watch the [video demonstration](https://watch.screencastify.com/v/rrfP6NhcUkSguqPBb9XE) to view basic functionality.
+Watch the [video demonstration](https://watch.screencastify.com/v/vr12iF8ybv0GSHpen9VM) to view basic functionality.
 
 
 - below GIF file showing the functionality of the application.
-  ![]()
+  ![employee-tracker](./Assets/Employee%20GIF.gif)
 
 ## Table of Contents
 
